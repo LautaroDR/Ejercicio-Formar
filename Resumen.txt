@@ -1,0 +1,2 @@
+One page con listado de productos llamados desdse un JSON(Utilizando Express(Ejs)).
+Utilizando Bootstrap para los estilos(Version web(Utilizando url y no archivos locales))
